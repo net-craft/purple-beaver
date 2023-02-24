@@ -1,2 +1,2 @@
 # purple-beaver
-An beautiful Nuxt + UIKIT Application Boilerplate.
+A Beautiful NuxtJS + UIKIT Application Boilerplate.
